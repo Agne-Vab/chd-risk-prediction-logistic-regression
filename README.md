@@ -75,5 +75,5 @@ As this is project did not test out all possible model improvement techniques, I
 
 ## Contact
 
-LinkedIn - [Agnė Vabalaitė](www.linkedin.com/in/agne-vabalaite).
+LinkedIn - [Agnė Vabalaitė](https://www.linkedin.com/in/agne-vabalaite).
 Gmail - vab.agne@gmail.com
