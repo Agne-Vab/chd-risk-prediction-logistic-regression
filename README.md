@@ -69,11 +69,11 @@ As this is project did not test out all possible model improvement techniques, I
 
 ## How to Use This Repository
 
-1. **Data**: Load the dataset from the provided [Kaggle](https://www.kaggle.com/datasets/christofel04/cardiovascular-study-dataset-predict-heart-disea/data) link or this repository.
-2. Install Dependencies: install required packages using [requirements.txt](https://github.com/TuringCollegeSubmissions/avabal-PYDA.4.4/blob/main/requirements.txt).
-3. Display the detailed analysis done by opening [notebook](https://github.com/TuringCollegeSubmissions/avabal-PYDA.4.4/blob/main/Cardiovascular_Disease_Prediction.ipynb). 
+1. Load the dataset from the provided [Kaggle](https://www.kaggle.com/datasets/christofel04/cardiovascular-study-dataset-predict-heart-disea/data) link or this repository.
+2. Install required packages using [requirements.txt](https://github.com/Agne-Vab/chd-risk-prediction-logistic-regression/blob/main/requirements.txt).
+3. Display the detailed analysis done by opening [notebook](https://github.com/Agne-Vab/chd-risk-prediction-logistic-regression/blob/main/Cardiovascular_Disease_Prediction.ipynb). 
 
 ## Contact
 
-Discord - "Agnė Vabalaitė | avabal".
+LinkedIn - [Agnė Vabalaitė](www.linkedin.com/in/agne-vabalaite).
 Gmail - vab.agne@gmail.com
