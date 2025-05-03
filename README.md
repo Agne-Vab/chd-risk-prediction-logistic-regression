@@ -6,7 +6,7 @@ This project applies predictive modeling techniques to analyze the Cardiovascula
 
 ## Dataset
 
-The dataset originates from the Framingham Heart Study, a longitudinal study of cardiovascular health and risk factors. It includes various attributes such as demographic information, lifestyle habits, and clinical measurements. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/christofel04/cardiovascular-study-dataset-predict-heart-disea/data) in train.csv format.
+The dataset originates from the Framingham Heart Study, a longitudinal study of cardiovascular health and risk factors. It includes various attributes such as demographic information, lifestyle habits, and clinical measurements. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/christofel04/cardiovascular-study-dataset-predict-heart-disea/data) in train.csv format. Please review Kaggle's terms and conditions for more details on dataset usage.
 
 ## Objectives
 
